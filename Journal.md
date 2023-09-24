@@ -1,2 +1,2 @@
-# Journal de Yu
+# Journal de bord_Yu
 
