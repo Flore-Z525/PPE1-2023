@@ -10,7 +10,7 @@
     
     En plus, dans les exercices, c'est complexe de déplacer plusieurs fichiers d'un même dossier à un autre dossier sur macOS en utilisant les commandes. Pour moi, la manière la plus facile est de sélectionner les fichiers en les mettant en surbrillance, puis je les déplace en lot. 
 
-https://github.com/Flore-Z525/PPE1-2023/assets/145296705/06693b46-5897-40e7-b6d2-5a98ef1d9e0a
+        https://github.com/Flore-Z525/PPE1-2023/assets/145296705/06693b46-5897-40e7-b6d2-5a98ef1d9e0a
 
 
     En revanche, la commande "mkdir" est vraiment efficace pour créer à la fois plusieurs dossiers. 
