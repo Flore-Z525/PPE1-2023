@@ -21,3 +21,10 @@ Enfin, je n'ai pas très bien compris comment trier les images de Paris et de Ja
 
 ## 2=le 27 septembre-3 octobre 2023
 
+Pendant la première heure, j'ai mis du temps à comprendre comment utiliser la commande "tree" pour créer une arborescence, car au début, je croyais qu'il fallait ajouter des choses après "install tree". En tout cas, j'ai réussi à le résoudre et faire une arborescence moi-même (je crois). 
+
+Et puis, en suivant les présentations des profs, on a ajouté la clé à GitHub. Ensuite on a fait un "clone", une copie locale du dépôt git en ligne. Jusqu'à ce moment-là, j'étais capable de suivre ces étapes. Mais après, j'étais un peu perdue. 
+
+Le reste du cours a été consacré en grande partie aux commandes Git. J'avais peu de conceptions sur ces commandes. il me semblait que j'ai eu des idées grâce aux explications des profs, mais après les cours, j'étais quand même confondue. Je pense que c'est dû au manque de pratique. 
+
+J'ai demandé pas mal de questions à mes camarades, grâce à eux, je suis plus claire sur les commandes. Donc maintenant j'essaie de modifier mon "journal.md" sur GitHub en utilisant "git push" et vs code. 
