@@ -30,3 +30,5 @@ Le reste du cours a été consacré en grande partie aux commandes Git. J'avais 
 J'ai demandé pas mal de questions à mes camarades, grâce à eux, je suis plus claire sur les commandes. Donc maintenant j'essaie de modifier mon "journal.md" sur GitHub en utilisant "git push" et vs code. 
 
 ajouter des lignes
+
+# seance3
