@@ -28,5 +28,3 @@ Et puis, en suivant les présentations des profs, on a ajouté la clé à GitHub
 Le reste du cours a été consacré en grande partie aux commandes Git. J'avais peu de conceptions sur ces commandes. il me semblait que j'ai eu des idées grâce aux explications des profs, mais après les cours, j'étais quand même confondue. Je pense que c'est dû au manque de pratique. 
 
 J'ai demandé pas mal de questions à mes camarades, grâce à eux, je suis plus claire sur les commandes. Donc maintenant j'essaie de modifier mon "journal.md" sur GitHub en utilisant "git push" et vs code. 
-
-ajouter des lignes
