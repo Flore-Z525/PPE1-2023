@@ -24,3 +24,6 @@ Une fois que vous aurez tout récupéré dans le bon journal de bord, committez 
 ## Exercice 2.c Créez un tag
 
 Finalement créez un tag "git-seance3" avec le message "séance 3, version finale des exercices de git" et poussez-le.
+
+
+### Flore_réessayer_Ex2
