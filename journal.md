@@ -1,4 +1,4 @@
-# Jounal de bord du projet encadré_Yu
+# Journal de bord du projet encadré_Yu
 
 ## séance 1 : le 20-26 septembre 2023
 
