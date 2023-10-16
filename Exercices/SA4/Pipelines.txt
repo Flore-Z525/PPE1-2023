@@ -1,0 +1,39 @@
+Pipelines : 
+
+1. Compter le nombre d’annotations par année (2016, 2017 et 2018),
+
+cat 2016/*/*.ann | wc -l
+cat 2017/*/*.ann | wc -l
+cat 2018/*/*.ann | wc -l
+
+2. limiter ce comptage aux lieux (Location),
+
+cat 2016/*/*.ann | grep Location | wc -l
+cat 2017/*/*.ann | grep Location | wc -l
+cat 2018/*/*.ann | grep Location | wc -l
+
+3. sauvegarder ces résultats dans un (seul) fichier,
+
+echo "Location en 2016" > Location.txt
+cat 2016/*/*.ann | grep Location | wc -l >> Location.txt
+
+echo "Location en 2017" >> Location.txt
+cat 2017/*/*.ann | grep Location | wc -l >> Location.txt
+
+echo "Location en 2018" >> Location.txt
+cat 2018/*/*.ann | grep Location | wc -l >> Location.txt
+
+4. établir le classement des lieux les plus cités.
+
+echo "Classement des lieux les plus cités en 2016" > lieux.txt
+cat 2016/*/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -nr | head -n 15 >> lieux.txt
+
+echo "Classement des lieux les plus cités en 2017" >> lieux.txt
+cat 2017/*/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -nr | head -n 15 >> lieux.txt
+
+echo "Classement des lieux les plus cités en 2018" >> lieux.txt
+cat 2018/*/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -nr | head -n 15 >> lieux.txt
+
+5. trouver les annotations les plus fréquentes pour votre mois de naissance, toutes années confondues.
+
+cat */*/*.ann | grep "\bmai\b" | cut -f 3 | sort | uniq -c | sort -nr
