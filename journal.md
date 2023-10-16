@@ -62,7 +62,7 @@ Je n'arrive pas encore le résoudre. Je vais le réessayer.
 
 ## séance 4 : le 11-16 octobre 2023
 
-Les explications des exercices 2 SA3 par les profs sont différentes de ce que je croyais quand je les faisais. Je suis encore en train de refaire ces exercices. 
+Les explications des exercices 2 SA3 par les profs sont différentes de ce que je croyais quand je les faisais. Je suis encore en train de refaire ces exercices. Selon les consignes d'exercice 2.a, je dois pousser le dernier commit, mais dans le cours de SA4, au début le prof ne l'a pas poussé, j'ai été perdue depuis ce moment-là. Je ne comprends pas comment retourner vers une ancienne version en laissant les changements être staged. Je pense que git reset et git revert les deux vont effacer les changements. Sauf que git reset --soft, qui ne peut pas être utilisé pour retourner un commit déjà poussé ? 
 
 Pour la SA4, on a appris des premières commandes de pipelines, qui ne sont pas difficiles à comprendre. Mais quand il nous faut concaténer plusieurs commandes, il y a trop de détails à réfléchir. Et ce sera plus compliqué pour trouver des problèmes s'il y en a. 
 
