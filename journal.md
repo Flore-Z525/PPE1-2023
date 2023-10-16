@@ -60,34 +60,14 @@ Cependant je n'ai pas compris l'exercice 2 "Retour au passé". J'avais créé un
 
 Je n'arrive pas encore le résoudre. Je vais le réessayer. 
 
-Le contenu suivant est copié depuis "oups.md" : 
+## séance 4 : le 11-16 octobre 2023
 
-## Exercice 2 Retour vers le passé
+Les explications des exercices 2 SA3 par les profs sont différentes de ce que je croyais quand je les faisais. Je suis encore en train de refaire ces exercices. 
 
+Pour la SA4, on a appris des premières commandes de pipelines, qui ne sont pas difficiles à comprendre. Mais quand il nous faut concaténer plusieurs commandes, il y a trop de détails à réfléchir. Et ce sera plus compliqué pour trouver des problèmes s'il y en a. 
 
-Il s’agit d’un exercice sur le reste de la séance.
+Quant aux exercices des scripts et variables, je les ai complétés avec l'aide des camarades, car pour moi, les consignes sont confondus comme toujours. Par exemple, je ne suis pas très sûre quelles sont "les entités", ce sera un fichier ou des caractères dans un fichier. (Pour l'instant, je prends des caractères dans un fichier comme "entité". )
 
-Nous allons effectuer une série de commit dans un mauvais fichier que vous appellerez "oups.md". Vous utiliserez "oups.md" à la place de votre journal de bord pour le reste de la séance.
+En plus, au début, je croyais que "le nombre de lieux à afficher" signifie le nombre d'occurrence des lieux. Mais selon d'autres camarades, "le nombre de lieux à afficher" est le nombre dans la commande "HEAD -n". 
 
-### Exercice 2.a Retourner à la bonne version
-
-Lorsque vous aurez fini votre travail (poussé votre dernier commit), vous devrez retourner vers la version du tag "git-seance3-init". La commande doit satisfaire les contraintes suivantes :
-
-— vous ne devez pas perdre les changements
-
-— les changements ne doivent pas être staged après le retour au tag
-
-### Exercice 2.b Basculer les changements vers le bon fichier
-
-Récupérez les changements effectués dans "oups.md" et copiez-les dans le journal de bord.
-
-Supprimez le fichier "oups.md".
-
-Une fois que vous aurez tout récupéré dans le bon journal de bord, committez et poussez cos changements.
-
-### Exercice 2.c Créez un tag
-
-Finalement créez un tag "git-seance3" avec le message "séance 3, version finale des exercices de git" et poussez-le.
-
-
-### Flore_réessayer_Ex2
+Pour moi, il est encore difficile d'écrire complètement un script qui correspond parfaitement aux consignes par moi-même. Chaque fois que je vois des exemples corrects, je suis capable de les comprendre. Cependant, lorsque je dois les écrire moi-même, je rencontre souvent des problèmes inattendus. Je pense qu'il me faut encore du temps et des pratiques pour mieux comprendre. 
