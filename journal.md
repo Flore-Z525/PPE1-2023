@@ -71,3 +71,62 @@ Quant aux exercices des scripts et variables, je les ai complétés avec l'aide 
 En plus, au début, je croyais que "le nombre de lieux à afficher" signifie le nombre d'occurrence des lieux. Mais selon d'autres camarades, "le nombre de lieux à afficher" est le nombre dans la commande "HEAD -n". 
 
 Pour moi, il est encore difficile d'écrire complètement un script qui correspond parfaitement aux consignes par moi-même. Chaque fois que je vois des exemples corrects, je suis capable de les comprendre. Cependant, lorsque je dois les écrire moi-même, je rencontre souvent des problèmes inattendus. Je pense qu'il me faut encore du temps et des pratiques pour mieux comprendre. 
+
+
+
+## séance 5 : le 17-23 octobre 2023
+
+Pendant cette séance, nous avons appris des instructions de contrôle, qui ne sont pas complexes. Nous avons essayé les instructions if/for/while dans Python, donc elles ne sont pas difficiles à comprendre. Mais il y a quand même des syntaxes assez différentes auxquelles nous devons faire attention. 
+
+**
+
+Pour l'instruction if : 
+
+    if [ condition ] 
+    then
+        echo "..."
+    else
+        echo "..."
+        exit
+    fi
+
+À noter que : 
+
+- il faut des espaces entre la condition et les crochets;
+- il n'y a pas de ":" à la fin de la ligne "if"/"else" (différent de ce qui dans Python);
+- il faut ajouter la ligne de "then" et "fi";
+- "exit" est nécessaire pour terminer le processus dans le cas où l'input ne convient pas. 
+
+
+Il y a aussi d'autres remarques convenant à n'import quelle instruction que j'ai trouvées au cours de pratique : 
+
+- quant à la syntaxe d'argument, il n'y a pas d'espaces entre arguments et les symboles, par exemple : 
+
+    ANNEE=$1
+- afin d'utiliser les expressions régulières dans les instructions, il faut utiliser des doubles crochets. Et la syntaxe est comme : 
+
+    if [[ $ANNEE =~ 201[6-8]| \ * ]]
+
+    (en signifiant le caractère *, " \ " est ajouté avant, mais pas d'espace avant et après " \ ")
+
+**
+
+Pour l'instruction for (un exemple) : 
+
+    for N in {2016..2018}
+    do
+        echo "..."
+    done
+
+**
+
+Pour l'instruction while : 
+
+    while [ condition ]
+    do
+        echo "..."
+    done
+
+**
+
+J'arrive à mieux comprendre les logiques d'un script en faisant les exos. Mais je trouve souvent des erreurs dans mes premiers brouillons. Je croyais que c'était correct quand je les écrivais, cependant, il me faut toujours les effectuer et puis trouver les problèmes et les résoudre. 
