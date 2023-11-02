@@ -130,3 +130,16 @@ Pour l'instruction while :
 **
 
 J'arrive à mieux comprendre les logiques d'un script en faisant les exos. Mais je trouve souvent des erreurs dans mes premiers brouillons. Je croyais que c'était correct quand je les écrivais, cependant, il me faut toujours les effectuer et puis trouver les problèmes et les résoudre. 
+
+
+
+## séance 6 : le 25 octobre-6 novembre 2023
+
+Nous avons approfondi l'écriture du script pour extraire des informations demandées d'une liste d'URL. 
+
+J'arrive à distinguer un argument d'une variable. 
+
+À mon avis, un argument est demandé lors du lancement du script, pour donner une valeur. Tandis qu'une variable est un espace de stockage nommé librement, utilisée pour stocker des données. 
+
+Au cours des exercices, je trouve que l'instruction if proposée par les profs est souvent plus détaillée que la mienne. 
+La combinaison des instructions conditionnelles avec langages réguliers et différentes options avec différentes commandes peut être complexe. Mais en fait la logique d'un script peut être assez facile à concevoir. Il faut toujours tester pour trouver des problèmes et les corriger plusieurs fois. 
