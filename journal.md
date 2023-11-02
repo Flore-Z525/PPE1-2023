@@ -141,5 +141,6 @@ J'arrive à distinguer un argument d'une variable.
 
 À mon avis, un argument est demandé lors du lancement du script, pour donner une valeur. Tandis qu'une variable est un espace de stockage nommé librement, utilisée pour stocker des données. 
 
-Au cours des exercices, je trouve que l'instruction if proposée par les profs est souvent plus détaillée que la mienne. 
+Au cours des exercices, je trouve que l'instruction if proposée par les profs est souvent plus détaillée que la mienne. Mais je pense que ce n'est pas très grave pour l'instant. 
+
 La combinaison des instructions conditionnelles avec langages réguliers et différentes options avec différentes commandes peut être complexe. Mais en fait la logique d'un script peut être assez facile à concevoir. Il faut toujours tester pour trouver des problèmes et les corriger plusieurs fois. 
