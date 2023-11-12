@@ -144,3 +144,21 @@ J'arrive à distinguer un argument d'une variable.
 Au cours des exercices, je trouve que l'instruction if proposée par les profs est souvent plus détaillée que la mienne. Mais je pense que ce n'est pas très grave pour l'instant. 
 
 La combinaison des instructions conditionnelles avec langages réguliers et différentes options avec différentes commandes peut être complexe. Mais en fait la logique d'un script peut être assez facile à concevoir. Il faut toujours tester pour trouver des problèmes et les corriger plusieurs fois. 
+
+
+
+
+## séance 7 : le 8-13 novembre 2023
+
+Nous avons corrigé le script du miniprojet pendant nos cours, qui est plus complexe que ce que je croyais. Je ne me suis pas aperçue que, pour certains URLs, leur encodage et code HTTP s'affichent d'ailleurs. 
+
+Voici des options et des symboles qui me sont nouveaux ou peu familiers : 
+
+- grep -P : utiliser des expressions régulières de Perl; 
+- $ : marqueur de la fin d'une ligne;
+- curl -w : spécifier un format pour la sortie de la commande;
+- curl -L : suivre les redirections; 
+- cut -d"=" : séparateur "=" de la tabulation;
+
+(Sur Mac : )
+- ggrep -P : effectuer une recherche d'expressions régulières de Perl, qui offrent des fonctionnalités étendues/avancées. 
