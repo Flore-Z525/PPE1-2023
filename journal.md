@@ -162,3 +162,23 @@ Voici des options et des symboles qui me sont nouveaux ou peu familiers :
 
 (Sur Mac : )
 - ggrep -P : effectuer une recherche d'expressions régulières de Perl, qui offrent des fonctionnalités étendues/avancées. 
+
+
+
+## séance 8 : le 15-20 novembre 2023
+
+Pendant cette séance, les pages Github (les gh pages) ont été introduites. Pour créer un site web lié à un dépôt git, il suffit de pousser un fichier html nommé "index.html", et d'utiliser la fonction "pages" dans la section "settings".
+
+Après quelques minutes d'attente, nous obtenons un site avec l'adresse comme "https://flore-z525.github.io/PPE1-2023/". Et l'adresse du dépôt correspondant est : "http://github.com/flore-z525/PPE1-2023". 
+
+D'ailleurs, Bulma simplifie la mise en beauté des pages HTML. Il offre diverses méthodes pour ajouter, dans le code HTML, différents types de modules, des polices de caractères de styles variés, des couleurs, etc. 
+
+Dans mon script (index.html), j'ai utilisé quelques descriptions, par exemple : 
+
+- has-text-weight-semibold : permet d'avoir des caractères plus gras ; 
+- has-text-centered : afficher les caractères au milieu d'une ligne ; 
+- has-background-link-light : donner une couleur de fond au texte ; 
+- < button>...</ button> : pour ajouter un bouton ; 
+- < a href="...">...</ a> : pour créer un lien hypertexte
+
+Cependant, je ne comprends toujours pas parfaitement ce qu'est le CSS. Il me semble que nous en avons peu parlé en classe, ou peut-être que j'ai oublié. 
