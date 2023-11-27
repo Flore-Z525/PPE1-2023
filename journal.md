@@ -182,3 +182,13 @@ Dans mon script (index.html), j'ai utilisé quelques descriptions, par exemple :
 - < a href="...">...</ a> : pour créer un lien hypertexte
 
 Cependant, je ne comprends toujours pas parfaitement ce qu'est le CSS. Il me semble que nous en avons peu parlé en classe, ou peut-être que j'ai oublié. 
+
+
+
+## séance 9 : le 22-27 novembre 2023
+
+Cette semaine, on commence à travailler en groupe. On a finalement décidé de choisir le mot "sécurité alimentaire". Je m'occupe de la partie en chinois, SHEN Yuntian s'occupe de celle en japonais, et ZHANG Weiqi en français. 
+
+Personnellement, j'ai trouvé 50 urls et je les ai stockés dans le fichier urls_zh.txt. En suivant les consignes dans les exercices, j'ai créé un script pour donner une page nommée tableau_zh.html, en produisant les pages aspirées, les dumps textuels, et en indiquant les occurrences et les contextes de notre mot dans chaque url. 
+
+Pour l'exo 2 de cette séance, je n'arrive pas à récupérer les dumps textuels (depuis les sites en chinois) avec Lynx. La commande "lynx -dump -option" donne des fichiers avec caractères illisibles. J'utilise "w3m" au lieu de Lynx. Je vais voir plus tard s'il faut le modifier. 
